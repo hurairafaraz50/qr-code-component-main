@@ -1,9 +1,11 @@
 body{
-    
-    padding: 50px;
+     
+     width: 1000px;
+     margin: 100PX auto;
     text-align: center;
     background-color: lightgray;
 }
+
 .scanner{
     background-color: whitesmoke;
     width: 350px; 
